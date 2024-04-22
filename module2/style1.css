@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #005792;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    background: #ffffff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.image-gallery {
+    background-color: rgb(231, 209, 216);
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-gallery img {
+    max-width: 100%;
+    height: auto;
+}
+
+.assignments div {
+    text-align: justify;
+    background-color: rgb(233, 209, 209);
+    margin: 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+}
+
+footer a {
+    color: #0bf;
+    text-decoration: none;
+}
+.img1{
+    margin: 20px;
+    height: 30%;
+    width: 40%;}
+
+    .img2{
+        margin: 20px;
+        height: 30%;
+        width: 30%;}
+
+
+        .image-gallery3 {
+            text-align: center; /* Center align the content */
+        }
+        
+        .gallery-heading {
+            background-color: rgb(199, 239, 225);
+            text-align: center;
+            margin-bottom: 20px; /* Add spacing below the heading */
+        }
+        
+        .image3 {
+            
+            display: flex;
+            flex-wrap: wrap;
+            
+            justify-content: center; /* Center align the images */
+        }
+        
+        .img3 {
+            margin: 20px;
+        height: 40%;
+        width: 40%;
+            /* Add any additional styling for images if needed */
+        }
+        
+        .t{
+            text-align: center;
+            background-color: yellowgreen;
+          }
+          .ijk{
+            text-align: center;
+            background-color: rgb(215, 236, 173);
+          }
+          .mno{
+            text-align: center;
+            background-color: rgb(225, 188, 238);
+
+          }
+          .abc{
+
+
+            text-align: left;    
+          }

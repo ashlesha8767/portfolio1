@@ -1,0 +1,187 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background: linear-gradient(135deg, #9a84e8, #90bafc);
+    width: 100%;
+    height: 200vh;
+}
+
+
+
+
+
+
+/*--------------- parendiv--------- */
+
+.parendiv {
+    position: relative;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/*------------- photo_div -----------------*/
+
+
+.photo {
+    position: absolute;
+    border: 2px solid #000;
+    width: 15%;
+    height: 20vh;
+    top: 7%;
+    left: 23%;
+    border-radius: 10%;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+
+}
+
+
+
+/*------------- photo_div__img_tag -----------------*/
+
+.photo>img {
+    width: 100%;
+    height: 20vh;
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------- phone_number_div ------------------*/
+
+
+.phone_number {
+    position: absolute;
+    top: 32%;
+    left: 23%;
+    border: 2px solid #000;
+    background-color: rgb(145, 134, 240);
+    width: 15%;
+    height: 70vh;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}
+
+
+/*---------------------- phone_number_text_position_------------- */
+
+.phone_number p {
+    top: 30%;
+}
+
+
+
+
+
+
+
+
+
+/*----------------------- bio_div ------------------*/
+
+
+.bio {
+    position: absolute;
+    top: 7%;
+    left: 40%;
+    border: 2px solid #000;
+    background-color: rgb(145, 134, 240);
+    width: 40%;
+    height: 20vh;
+    text-align: start;
+    border-radius: 10px;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+
+}
+
+/*---------------------- bio_div_text_position_------------- */
+
+.bio ul {
+    margin-left: 7%;
+    margin-top: 3%;
+ list-style:square;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------skills_div------------- */
+
+.skills {
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    border: 2px solid hsl(0, 0%, 0%);
+    background-color: rgb(145, 134, 240);
+    width: 40%;
+    height: 70vh;
+    /* text-align: center; */
+    border-radius: 10px;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}
+
+/*----------------- skills_div_text_position_-------------- */
+
+.skills li {
+   align-items: center;
+list-style: none;
+margin-left: 5%;
+
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    margin-left: 2%;
+    
+    background: size 1px;0%;
+    
+    
+}
+
+body{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+}
+
+
+
+
+

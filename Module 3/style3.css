@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.ijk{
+
+    
+    text-align: center;
+    background-color: yellowgreen;
+  }
+.t{text-align: center;
+    background-color: rgb(184, 153, 239);
+  
+
+}
+.img1{
+    .img3 {
+        margin: 20px;
+    height: 40%;
+    width: 40%;
+        /* Add any additional styling for images if needed */
+    }
+}
+
+
+
+footer p {
+    margin: 0;
+}
+.img1{
+    margin: 20px;
+    height: 30%;
+    width: 40%;}
+
+   
+    .image-gallery3 {
+        text-align: center; /* Center align the content */
+    }
+    
+    .gallery-heading {
+        background-color: rgb(199, 239, 225);
+        text-align: center;
+        margin-bottom: 20px; /* Add spacing below the heading */
+    }
+    
+
+    .gallery{
+        background-color: rgb(195, 247, 136);
+        text-align: center;
+        margin-bottom: 20px; 
+    }
